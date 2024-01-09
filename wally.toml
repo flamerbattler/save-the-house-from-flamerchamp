@@ -1,0 +1,9 @@
+[package]
+name = "user/save-the-house-from-flamerchamp"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+matter = "evaera/matter@0.7.0"
+profileservice = "brittonfischer/profileservice@2.1.5"
